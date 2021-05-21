@@ -1,2 +1,2 @@
 # Advanced_Javascript_scripts
-Collection of some JavaScript advanced script for professional developers and beginners with Kigalidevelopers
+Collection of some JavaScript advanced script for professional developers and beginners with Tusted  Kigalidevelopers
